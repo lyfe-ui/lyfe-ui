@@ -1,5 +1,5 @@
 _**Hi there, I'm bubb1y**_
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bubb1y)
+<img src="https://komarev.com/ghpvc/?username=bubb1ystyle=flat-square&color=blue" alt=""/>
 
 **My Statistics:**
 
