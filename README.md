@@ -1,5 +1,5 @@
 _**Hi there, I'm bubb1y**_
-<img src="https://komarev.com/ghpvc/?username=bubb1y&style=flat-square&color=blue" alt=""/>
+<br /><img src="https://komarev.com/ghpvc/?username=bubb1y&style=flat-square&color=blue" alt=""/>
 
 **My Statistics:**
 
