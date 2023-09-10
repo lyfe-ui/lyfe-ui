@@ -1,4 +1,4 @@
-_**Hi there, I'm bubb1y**_
+_**Hi there, I'm bubbly**_
 
 Hi, I'm bubb1y, I enjoy programming as well as doing anything other than that, I am a diligent and creative worker that can cater to your needs.
 
