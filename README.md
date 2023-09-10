@@ -1,6 +1,6 @@
-_**Hi there, I'm bubbly**_
+_**Hi there, I'm astral**_
 
-Hi, I'm bubb1y, I enjoy programming as well as doing anything other than that, I am a diligent and creative worker that can cater to your needs.
+Hi, I'm astral, I enjoy programming as well as doing anything other than that, I am a diligent and creative worker that can cater to your needs.
 
 **My Favorite Programming Language is:** **_Javascript_**
 
@@ -16,5 +16,5 @@ _**My Skills:**_
 
 **My Statistics:**
 
-<br /><img src="https://komarev.com/ghpvc/?username=bubb1y&style=flat-square&color=blue" alt=""/>
+<br /><img src="https://komarev.com/ghpvc/?username=pastrified&style=flat-square&color=blue" alt=""/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bubb1y&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
