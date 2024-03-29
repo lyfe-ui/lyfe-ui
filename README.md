@@ -5,4 +5,4 @@ I enjoy programming as well as doing anything other than that, I am a diligent a
 
 **Languages**
 
-<img alt="Static Badge" src="https://img.shields.io/badge/react" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
