@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -26,18 +26,18 @@
 
 ---
 
-### 🔥 About Me
+### About Me
 
-- 💻 Full-stack developer focused on building seamless user experiences  
-- 🛠️ Always exploring new technologies and frameworks  
-- 🚀 Open to collaborations and freelance opportunities  
-- 📌 Check out my repositories for open-source projects  
+- Full-stack developer focused on building seamless user experiences  
+- Always exploring new technologies and frameworks
+- Open to collaborations and freelance opportunities  
+- Check out my repositories for open-source projects  
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 <p align="center">
   <a href="https://github.com/lyfe-ui"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://discord.com/users/852628868308402246"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.com/users/1412899022104035490"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
